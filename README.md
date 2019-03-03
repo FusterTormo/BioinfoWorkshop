@@ -1,5 +1,5 @@
 # Bioinformatics Workshop
-Here you are going to find the slides and examples used by Francisco Fuster Tormo in I Bioinformatics workshop
+Here you are going to find the slides and examples used by Francisco Fuster Tormo in the I Bioinformatics workshop
 
 To download the data, click in "clone or download" button, and, after in "Download ZIP".
 
@@ -48,7 +48,7 @@ To download the data, click in "clone or download" button, and, after in "Downlo
 * clear &rarr; Clean the terminal
 * man &rarr; Print the manual of the command
 * history &rarr; Print the list of all the commands used
-* wc &rarr; Count the lines, words and
+* wc &rarr; Count the lines, words and bytes that a file has
 
 ## Compressing/Uncompressing files
 * tar &rarr; Compress/Uncompress tar files
