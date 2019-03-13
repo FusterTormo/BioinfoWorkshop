@@ -1,4 +1,4 @@
-# Bioinformatics Workshop
+# Introduction to Linux
 Here you are going to find the slides and examples used by Francisco Fuster Tormo in the I Bioinformatics workshop
 
 To download the data, click in "clone or download" button, and, after in "Download ZIP".
@@ -74,5 +74,5 @@ To download the data, click in "clone or download" button, and, after in "Downlo
 ## Working in cluster
 * ssh &rarr; Connect to cluster
 * qsub &rarr; Send bash script to execute in cluster
-* qstat &arr; Check status of our jobs
+* qstat &rarr; Check status of our jobs
 * qdel &rarr; Delete the job
