@@ -1,7 +1,11 @@
 # Introduction to Linux
 Here you are going to find the slides and examples used by Francisco Fuster Tormo in the I Bioinformatics workshop
 
-To download the data, click in "clone or download" button, and, after in "Download ZIP".
+To download all the data, click in "clone or download" button, and, after in "Download ZIP".
+
+# Contact
+
+If you have questions, do not hesitate to contact me: ffuster@carrerasresearch.org
 
 # How to connect to cluster
 1. Open virtual box
