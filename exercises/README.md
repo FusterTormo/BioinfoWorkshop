@@ -159,9 +159,11 @@ cut -f 4 file2.tsv | sort | uniq -c | grep -w '1'
 Output is:
 
 <code>
-    1 CEBPA
-    1 KRAS
+    1 CEBPA<br>
+    1 KRAS<br>
+    
     1 SETBP1
+    
     1 STAF-typo1
 </code>
 
