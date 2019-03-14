@@ -158,13 +158,12 @@ cut -f 4 file2.tsv | sort | uniq -c | grep -w '1'
 
 Output is:
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;1 CEBPA
-&nbsp;&nbsp;&nbsp;&nbsp;1 KRAS<
-&nbsp;&nbsp;&nbsp;&nbsp;1 SETBP1<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1 STAF-typo1
+* 1 CEBPA
+* 1 KRAS
+* 1 SETBP1
+* 1 STAF-typo1
 
 
 So, easy to find it, isn't it?
 
-Hope you like to program in bash. And congratulations to arrive until the end of this README.
+Hope you enjoyed the course, and liked to program in bash. Congratulations for arriving until the end of this README.
