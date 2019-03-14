@@ -159,10 +159,10 @@ cut -f 4 file2.tsv | sort | uniq -c | grep -w '1'
 Output is:
 
 
-    1 CEBPA<br>
-    1 KRAS<br>
-    1 SETBP1<br>
-    1 STAF-typo1
+&nbsp;&nbsp;&nbsp;&nbsp;1 CEBPA
+&nbsp;&nbsp;&nbsp;&nbsp;1 KRAS<
+&nbsp;&nbsp;&nbsp;&nbsp;1 SETBP1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1 STAF-typo1
 
 
 So, easy to find it, isn't it?
