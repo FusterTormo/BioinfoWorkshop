@@ -145,7 +145,7 @@ You will notice that first column is not sorted as we expected. Bash "thinks" th
 ### 2. File1 is tab-separated file, but customer says that he/she needs comma-separated file. Can you do it using bash?
 
 ```bash
-tr '\t' ',' &lt; file1.tsv &gt; file_for_customer.csv
+tr '\t' ',' < file1.tsv > file_for_customer.csv
 ```
 
 ### 3. There is a typo in a gene in file2.tsv. Are you able to find it? (Trick: use sort + uniq)
